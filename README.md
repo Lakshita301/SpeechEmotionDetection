@@ -1,4 +1,4 @@
-# Speech Emotion Detection (Mini Project)
+# Speech Emotion Detection 
 
 **Team:** Mahashweta Panigrahi , Lakshita Negi
 ## 1. Project Overview
