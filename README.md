@@ -1,5 +1,6 @@
 # Speech Emotion Detection (Mini Project)
 
+**Team:** Mahashweta Panigrahi , Lakshita Negi
 ## 1. Project Overview
 
 Detect emotions from short speech clips using classical ML models (SVM / Random Forest) trained on RAVDESS dataset features (MFCCs, chroma, mel, tonnetz).
